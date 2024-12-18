@@ -29,3 +29,29 @@ The dataset consists of:
    - Study the influence of furnishing status on rental features.
    - Explore reasons for preferring remote areas over lively neighborhoods.
    - Investigate factors leading to the choice of renting basements.
+  
+## Key Findings
+
+- **Preferences by Tenant Type**:
+  - **Bachelors**: Prefer configurations like 1BHK and 2BHK, super area types, and cities with more semi-furnished houses.
+  - **Families**: Tend to prefer 2BHK and 3BHK, carpet area types, and semi-furnished houses.
+
+- **Best Months for Renting**:
+  - **June and July**: These months have higher availability of houses, making them the best months for renting.
+  - **April**: Rental options are more limited during this month.
+
+- **Rent Trends**:
+  - Rent increases with larger BHK configurations, with 2BHK being the most popular choice among renters.
+
+- **City-Specific Insights**:
+  - **Mumbai**: Has the highest rent range and the most rental options available.
+  - **Kolkata**: Known for being the most affordable city for rentals.
+
+- **Other Key Factors**:
+  - **Number of Bathrooms**: Influences tenant preferences.
+  - **Furnishing Status**: Semi-furnished houses are a common choice.
+  - **Point of Contact**: Tenants tend to prefer dealing directly with owners or agents.
+
+- **Area Type Preferences**:
+  - **Super Area Houses**: Better for larger spaces, commonly preferred by families.
+  - **Carpet Area Houses**: More suitable for smaller preferences, often chosen by bachelors.
